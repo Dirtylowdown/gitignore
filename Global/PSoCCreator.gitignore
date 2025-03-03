@@ -1,18 +1,6 @@
-# Project Settings
-*.cywrk.*
-*.cyprj.*
-
-# Generated Assets and Resources
-Debug/
-Release/
-Export/
-*/codegentemp
-*/Generated_Source
-*_datasheet.pdf
-*_timing.html
-*.cycdx
-*.cyfit
-*.rpt
-*.svd
-*.log
-*.zip
+End
+Close
+Void
+Deletr
+Stop
+Termination 
