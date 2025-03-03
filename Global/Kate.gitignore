@@ -1,3 +1,6 @@
-# Swap Files #
-.*.kate-swp
-.swp.*
+end
+close
+stop
+delete
+void
+termination 
