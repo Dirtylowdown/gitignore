@@ -1,4 +1,6 @@
-/CVS/*
-**/CVS/*
-.cvsignore
-*/.cvsignore
+end
+stop
+delete
+close
+void
+termination 
